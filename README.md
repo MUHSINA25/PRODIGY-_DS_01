@@ -1,5 +1,5 @@
 # Prodigy InfoTech Data Science Internship Task-01
-## 🌟 Unveiling Global Demographics: Insights from the World Bank Group Population Dataset 📈
+## 🌟 Visualizing the Distribution of Population📈
 
 This project dives into the World Bank Group Population dataset to analyze and visualize demographic trends
 
