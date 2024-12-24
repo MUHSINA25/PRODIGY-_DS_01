@@ -1,8 +1,7 @@
 # Prodigy InfoTech Data Science Internship Task-01
+## 🌟 Unveiling Global Demographics: Insights from the World Bank Group Population Dataset 📈
 
-## 🌍 Exploring the World Bank Group Population Dataset: A Data Visualization Journey 📊
-
-This project dives into the World Bank Group Population dataset to analyze and visualize demographic trends, particularly focusing on population distributions across age, gender, and global regions. The visualizations offer insights into population growth patterns, disparities, and economic transitions worldwide.
+This project dives into the World Bank Group Population dataset to analyze and visualize demographic trends
 
 ---
 
@@ -74,4 +73,4 @@ The objectives of this project are:
 - **Global Growth**: The world's population has seen exponential growth, with a noticeable slowdown in the rate of increase in recent years.
 - **Regional Disparities**: Population is highly concentrated in a few nations, while others show modest figures.
 - **Economic Insights**: Visualizations provide valuable inputs for resource planning and international development.
----
+
